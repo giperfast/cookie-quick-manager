@@ -1,0 +1,40 @@
+body {
+  color: #cfcfcf;
+  background-color: #1c1b22;
+}
+.navbar-default {
+  background-color: #1c1b22;
+  border-color: #2b2a33;
+}
+.form-control[disabled], .form-control[readonly], fieldset[disabled] .form-control {
+  background-color: #2b2a33;
+  border: 1px solid #383838;
+}
+.form-control {
+  color: #ddd;
+  background-color: #1c1b22;
+  border: 1px solid #2b2a33;
+}
+.list-group-item {
+  background-color: #2b2a33;
+  border: 1px solid #2b2a33;
+}
+.btn-default {
+  color: #cfcfcf;
+  background-color: #2b2a33;
+  border-color: #383838;
+}
+.input-group-addon {
+  background-color: transparent;
+  border: 1px solid #2b2a33;
+}
+.dropdown-menu {
+  background-color: #1c1b22;
+}
+.dropdown-menu > li > a {
+  color: #cfcfcf;
+}
+.modal-content {
+  background-color: #1c1b22;
+  color: #cfcfcf;
+}
